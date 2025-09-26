@@ -15,3 +15,4 @@ User Function MT100LOK()
     lRet := u_OM30XPE('MT100LOK')
 
 Return(lRet)
+ 

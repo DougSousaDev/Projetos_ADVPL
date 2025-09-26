@@ -12,7 +12,7 @@ https://tdn.totvs.com/pages/releaseview.action?pageId=6071105
 @type    function
 ---------------------------------------------------------------------------
 /*/
-
+ 
 User Function FA050DEL()
     Local lRet       := .T.
     Local cNumero    := SE2->E2_NUM

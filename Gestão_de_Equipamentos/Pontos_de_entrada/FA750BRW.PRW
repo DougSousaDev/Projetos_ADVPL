@@ -22,7 +22,7 @@ User Function FA750BRW()
     AADD(aButFat,{ "Cartao de Credito", aButtons, 0 , 9})
 
 Return(aButFat)
-
+ 
 /*/
 ---------------------------------------------------------------------------
 {Protheus.doc} grvFatur
